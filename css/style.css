@@ -1,0 +1,362 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    height: 700px;
+    width: 800px;
+    background-color: blue;
+    margin: 10px auto;
+    position: relative;
+}
+.two{
+    height: 200px;
+    width: 200px;
+    top: 0;
+    right: 0;
+    background-color: aqua;
+    position: absolute;
+}
+.three{
+    height: 200px;
+    width: 200px;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    position: absolute;
+}
+.for{
+    height: 200px;
+    width: 200px;
+    bottom: 0;
+    left: 0;
+    background-color: aqua;
+    position: absolute;
+}
+.five{
+    height: 200px;
+    width: 200px;
+    bottom: 0;
+    right: 0;
+    background-color: aqua;
+    position: absolute;
+}
+.six{
+    height: 150px;
+    width: 150px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: aqua;
+    position: absolute;
+}
+.seven{
+    height: 150px;
+    width: 150px;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: aqua;
+    position: absolute;
+}
+.eight{
+    height: 150px;
+    width: 150px;
+    bottom:0;
+    left:50%;
+    transform: translateX(-50%);
+    background-color: aqua;
+    position: absolute;
+}
+.nine{
+    height: 150px;
+    width: 150px;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    background-color: aqua;
+    position: absolute;
+}
+.ten{
+    height: 200px;
+    width: 200px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: aqua;
+    position: absolute;
+}
+.one_one{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+.one_two{
+    height: 150px;
+    width: 150px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(206, 12, 154, 0.836);
+    position: absolute;
+}
+.one_three{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+.one_one_one{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_three{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_for{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+
+.one_one_ones{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threes{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_fors{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+
+.one_one_oness{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threess{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+/*  */
+.one_one_onesss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threesss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forsss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+/*  */
+.one_one_onessss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threessss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forssss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
+/*  */
+.one_one_onesssssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threesssssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forsssssss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+/*  */
+.one_one_onessssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threessssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forssssss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+/*  */
+.one_one_onesssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(3, 41, 231, 0.836);
+    position: absolute;
+}
+
+.one_three_threesssss{
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(64, 8, 234, 0.836);
+    position: absolute;
+}
+.one_for_forsssss{
+    height: 50px;
+    width: 50px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(231, 3, 22, 0.836);
+    position: absolute;
+}
+
